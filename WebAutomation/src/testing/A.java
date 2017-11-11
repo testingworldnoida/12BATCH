@@ -12,6 +12,7 @@ public class A {
     	{
     		System.out.println(a*i);
     		i++;
+    		System.out.println("HELO");
     	}
     	
     	
